@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/BLDC_Sensored.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>32768</length>
+      <used>5618</used>
+      <free>27150</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>263394</length>
+      <used>18147</used>
+      <free>245247</free>
+    </memory>
+  </executable>
+</project>
