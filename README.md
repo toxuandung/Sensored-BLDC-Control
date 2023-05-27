@@ -4,4 +4,6 @@ This application utilizes the dsPIC33EP256MC506 microcontroller, manufactured by
 
 The program is written in C programming language and has been specifically optimized and well annotated for ease of understanding and program modification.
 
-
+<p align="center">
+    <img width=80% src="https://github.com/toxuandung/Sensored-BLDC-Control/blob/main/BLDC_Sensored.X/Close_loop.png">
+</p>
